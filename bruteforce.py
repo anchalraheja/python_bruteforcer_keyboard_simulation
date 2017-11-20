@@ -1,5 +1,6 @@
 from pyautogui import press, typewrite, hotkey
 import time 
+FAILSAFE = True
 
 time.sleep(1.5)    
 
